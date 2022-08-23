@@ -1,3 +1,3 @@
 *Eae eu sou Gabriel
-*Estou aprendendo Programção
+*Estou aprendendo Programação
 *
